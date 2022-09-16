@@ -1,0 +1,8 @@
+C:\Users\slgwt\source\repos\Primoygolinik)\bin\Debug\Primoygolinik).exe.config
+C:\Users\slgwt\source\repos\Primoygolinik)\bin\Debug\Primoygolinik).exe
+C:\Users\slgwt\source\repos\Primoygolinik)\bin\Debug\Primoygolinik).pdb
+C:\Users\slgwt\source\repos\Primoygolinik)\obj\Debug\Primoygolinik).csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\Primoygolinik)\obj\Debug\Primoygolinik).csproj.SuggestedBindingRedirects.cache
+C:\Users\slgwt\source\repos\Primoygolinik)\obj\Debug\Primoygolinik).csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\Primoygolinik)\obj\Debug\Primoygolinik).exe
+C:\Users\slgwt\source\repos\Primoygolinik)\obj\Debug\Primoygolinik).pdb
